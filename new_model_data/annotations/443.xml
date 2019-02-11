@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>443.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1080</width>
+    <height>2220</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>227</xmin>
+      <ymin>1143</ymin>
+      <xmax>467</xmax>
+      <ymax>1407</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>539</xmin>
+      <ymin>1227</ymin>
+      <xmax>737</xmax>
+      <ymax>1521</ymax>
+    </bndbox>
+  </object>
+</annotation>

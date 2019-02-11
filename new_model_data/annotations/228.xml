@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>228.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>724</width>
+    <height>1140</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>114</xmin>
+      <ymin>259</ymin>
+      <xmax>546</xmax>
+      <ymax>1083</ymax>
+    </bndbox>
+  </object>
+</annotation>
