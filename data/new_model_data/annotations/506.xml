@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>506.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1080</width>
+    <height>2220</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>113</xmin>
+      <ymin>380</ymin>
+      <xmax>449</xmax>
+      <ymax>950</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>509</xmin>
+      <ymin>422</ymin>
+      <xmax>707</xmax>
+      <ymax>980</ymax>
+    </bndbox>
+  </object>
+</annotation>

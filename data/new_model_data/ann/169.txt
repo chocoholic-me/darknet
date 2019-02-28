@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>169.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>600</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>175</ymin>
+      <xmax>366</xmax>
+      <ymax>794</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>249</xmin>
+      <ymin>91</ymin>
+      <xmax>563</xmax>
+      <ymax>781</ymax>
+    </bndbox>
+  </object>
+</annotation>

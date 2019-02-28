@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>22.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>600</width>
+    <height>450</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>318</xmin>
+      <ymin>140</ymin>
+      <xmax>411</xmax>
+      <ymax>349</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>198</xmin>
+      <ymin>120</ymin>
+      <xmax>309</xmax>
+      <ymax>301</ymax>
+    </bndbox>
+  </object>
+</annotation>

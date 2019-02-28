@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>118.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>682</width>
+    <height>1023</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>263</xmin>
+      <ymin>487</ymin>
+      <xmax>517</xmax>
+      <ymax>908</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>24</xmin>
+      <ymin>670</ymin>
+      <xmax>310</xmax>
+      <ymax>1010</ymax>
+    </bndbox>
+  </object>
+</annotation>
