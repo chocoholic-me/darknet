@@ -1,6 +1,6 @@
 import os
-path = "C:\\Users\\HP\\Desktop\\Darknet\\darknet\\data\\new_model_data\\ann"
-path2 = "data/new_model_data/ann"
+path = "C:\\Users\\HP\\Desktop\\Darknet\\darknet\\data\\new_model_data\\images"
+path2 = "data/new_model_data/images/"
 imgList = os.listdir(path)
 
 txtFile = open("train.txt",'w')

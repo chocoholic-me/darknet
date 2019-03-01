@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>51.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>725</width>
+    <height>799</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>feet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>208</xmin>
+      <ymin>220</ymin>
+      <xmax>673</xmax>
+      <ymax>798</ymax>
+    </bndbox>
+  </object>
+</annotation>
